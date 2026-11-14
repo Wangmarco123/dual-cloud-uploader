@@ -6,16 +6,18 @@ Windows 本地文件上传工具，支持百度网盘和阿里云盘。提供中
 
 ## 下载使用
 
-前往 [R06 Release](https://github.com/Wangmarco123/dual-cloud-uploader/releases/tag/v2026.11.14-r06)，下载便携版 ZIP。仓库为私有，下载时需要有访问权限的 GitHub 账号。
+前往 [R06 Release](https://github.com/Wangmarco123/dual-cloud-uploader/releases/tag/v2026.11.14-r06)，下载 `dual-cloud-uploader-portable-20261114-r06.zip`。仓库为私有，下载时需要有访问权限的 GitHub 账号。
 
 1. 完整解压到 Windows 10/11 x64 的可写目录。
 2. 双击“检查运行环境.cmd”，再打开“启动上传助手.cmd”。
 3. 分别在阿里授权窗口和百度独立窗口扫码登录。
 4. 选择网盘、文件和目标目录，加入队列并开始上传。
 
+Release 的 `SHA256SUMS.txt` 对应 GitHub 附件英文文件名；`original-R06-SHA256.txt` 保留网盘原始中文文件名的摘要。便携包内容与原 R06 相同。
+
 便携包自带 Python 与两套上传引擎，无需另装 Python。扫码窗口需要 Microsoft Edge WebView2 Runtime 和 .NET Framework 4.7.2 或更新版本。
 
-**GitHub 的 Code → Download ZIP 是源码，不能当作完整便携软件直接使用。** 日常使用请选择 Release 中名称包含“便携版”的附件。
+**GitHub 的 Code → Download ZIP 是源码，不能当作完整便携软件直接使用。** 日常使用请选择 Release 中`dual-cloud-uploader-portable-20261114-r06.zip` 附件。
 
 ## 功能与限制
 
