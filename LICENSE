@@ -1,7 +1,7 @@
 License status of the upload-assistant application
 
 No general open-source license is granted for the upload-assistant application
-code in this repository. Access to this private repository does not itself grant
+code in this repository. Access to this repository does not itself grant
 a license to redistribute, sublicense, or publish that application code.
 The repository owner may select a separate license for it later.
 
@@ -9,3 +9,6 @@ Third-party components are excluded from this notice and remain subject to
 their own licenses. In particular, third_party/baidupcs-go and the engine
 license files under bin/ retain their upstream Apache-2.0 terms.
 See THIRD_PARTY_NOTICES.md for sources and component-specific notices.
+
+This notice does not restrict rights granted through GitHub's Terms of Service
+or through the applicable third-party component licenses.

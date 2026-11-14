@@ -6,7 +6,7 @@ Windows 本地文件上传工具，支持百度网盘和阿里云盘。提供中
 
 ## 下载使用
 
-前往 [R06 Release](https://github.com/Wangmarco123/dual-cloud-uploader/releases/tag/v2026.11.14-r06)，下载 `dual-cloud-uploader-portable-20261114-r06.zip`。仓库为私有，下载时需要有访问权限的 GitHub 账号。
+前往 [R06 Release](https://github.com/Wangmarco123/dual-cloud-uploader/releases/tag/v2026.11.14-r06)，下载 `dual-cloud-uploader-portable-20261114-r06.zip`。仓库与 Release 现已公开，可直接分享链接查看源码和下载软件。
 
 1. 完整解压到 Windows 10/11 x64 的可写目录。
 2. 双击“检查运行环境.cmd”，再打开“启动上传助手.cmd”。

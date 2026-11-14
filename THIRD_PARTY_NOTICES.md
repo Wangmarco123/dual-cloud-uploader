@@ -34,4 +34,4 @@ pystray 在运行时以独立 Python 模块导入，便携包附有其 .py 文�
 
 pywebview 附带的 Microsoft WebView2 SDK DLL 仍受微软相应条款约束，不能归入 pywebview 的 BSD 条款；系统 WebView2 Runtime 也与 SDK 文件不同。参考 [微软分发说明](https://learn.microsoft.com/en-us/microsoft-edge/webview2/concepts/distribution)。
 
-本次仓库与 R06 Release 用作私有维护快照。现有组件许可副本予以保留；如进一步面向公众再分发，需要按实际依赖、原生 DLL 和对应版本复核完整条款，不据此声明已完成全面公开再分发许可审查。
+本仓库及 R06 Release 公开提供访问，现有组件许可副本予以保留。公开可访问不改变各组件的许可条款；后续打包与再分发应按实际依赖、原生 DLL 和对应版本复核完整条款。此来源清单不代表已经完成全面的再分发许可审查。
