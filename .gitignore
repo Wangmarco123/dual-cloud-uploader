@@ -1,0 +1,37 @@
+# Portable runtime and executable engines are distributed through Releases.
+/runtime/
+/bin/**/*.exe
+/bin/**/*.dll
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+# Local login, browser profile, queue and verification state.
+DualCloudUploader/
+accounts/
+events/
+verification/
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+worker.lock
+preferences.json
+*_login_result.json
+.env
+.env.*
+# Generated packages, local outputs and editor files.
+/dist/
+/build/
+/outputs/
+*.zip
+*.7z
+*.tar.gz
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

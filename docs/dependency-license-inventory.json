@@ -1,0 +1,68 @@
+[
+  {
+    "distribution": "bottle-0.13.4.dist-info",
+    "license_files": [
+      "licenses/LICENSE"
+    ]
+  },
+  {
+    "distribution": "cffi-2.1.1.dist-info",
+    "license_files": [
+      "licenses/LICENSE"
+    ]
+  },
+  {
+    "distribution": "clr_loader-0.3.1.dist-info",
+    "license_files": [
+      "licenses/LICENSE"
+    ]
+  },
+  {
+    "distribution": "pillow-12.3.0.dist-info",
+    "license_files": [
+      "licenses/LICENSE"
+    ]
+  },
+  {
+    "distribution": "proxy_tools-0.1.0.dist-info",
+    "license_files": []
+  },
+  {
+    "distribution": "pycparser-3.12.dist-info",
+    "license_files": [
+      "licenses/LICENSE"
+    ]
+  },
+  {
+    "distribution": "pystray-0.19.5.dist-info",
+    "license_files": [
+      "COPYING",
+      "COPYING.LGPL"
+    ]
+  },
+  {
+    "distribution": "pythonnet-3.2.1.dist-info",
+    "license_files": [
+      "licenses/AUTHORS.md",
+      "licenses/LICENSE"
+    ]
+  },
+  {
+    "distribution": "pywebview-6.1.dist-info",
+    "license_files": [
+      "licenses/LICENSE"
+    ]
+  },
+  {
+    "distribution": "six-1.17.0.dist-info",
+    "license_files": [
+      "LICENSE"
+    ]
+  },
+  {
+    "distribution": "typing_extensions-4.16.0.dist-info",
+    "license_files": [
+      "licenses/LICENSE"
+    ]
+  }
+]

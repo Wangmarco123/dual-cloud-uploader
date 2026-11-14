@@ -1,0 +1,13 @@
+{
+  "release": "2026-11-14 R06",
+  "base_repository": "https://github.com/qjfoidnh/BaiduPCS-Go",
+  "base_version": "v4.0.2",
+  "base_commit": "225bdd3b6cb298601c4d5ef7104c3e08cd1d692d",
+  "patch": "On cached-IP TCP connection failure, retry the original hostname using context-aware net.Dialer. TLS verification and skip-existing upload policy remain enabled.",
+  "sha256": "3f28b7df24eed3b59aed062cea305592ed2a7ff50e2dfe125f588d82484df92e",
+  "build": "Go 1.24.1 windows-amd64; go build -trimpath",
+  "patch_file": "../../patches/baidupcs-address-fallback.patch",
+  "regression_test": "../../third_party/baidupcs-go/requester/dial_fallback_test.go",
+  "upstream_release_record": "release.json",
+  "source_directory": "../../third_party/baidupcs-go"
+}

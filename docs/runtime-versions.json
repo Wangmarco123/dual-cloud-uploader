@@ -1,0 +1,26 @@
+{
+  "python": "3.12.13",
+  "platform": "Windows x64",
+  "packages": {
+    "pywebview": "6.1",
+    "pythonnet": "3.2.1",
+    "clr_loader": "0.3.1",
+    "cffi": "2.1.1",
+    "pycparser": "3.12",
+    "proxy_tools": "0.1.0",
+    "bottle": "0.13.4",
+    "typing_extensions": "4.16.0",
+    "pystray": "0.19.5",
+    "pillow": "12.3.0",
+    "six": "1.17.0"
+  },
+  "requires": "Microsoft Edge WebView2 runtime and .NET Framework 4.7.2+",
+  "credentials_in_package": false,
+  "delivery_version": "2026-11-14 R06",
+  "engines": {
+    "ali": "aliyunpan 0.4.0",
+    "baidu": "BaiduPCS-Go v4.0.2 + local address fallback patch"
+  },
+  "baidu_patch_record": "bin/baidu/local_patch.json",
+  "portable_runtime_status": "Checked on release computer only; other computers require first authorization and local validation."
+}
